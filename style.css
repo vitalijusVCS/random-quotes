@@ -35,6 +35,15 @@ body {
   margin-bottom: 20px;
 }
 
+#author {
+  font-size: 24px;
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+}
+
+
 /* Button styling */
 #new-quote-btn {
   padding: 10px 20px;
